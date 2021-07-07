@@ -5,21 +5,21 @@
 # Menambahkan Sistem CRUD 
 
 # 1. Tampilan Awal
-![Screenshot (488)](https://user-images.githubusercontent.com/81568032/124490486-5a274a00-dddc-11eb-8ea5-a5ef2a61c916.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124685925-66a2c400-defc-11eb-8c96-5b483f034ded.png)
+
 
 # 2. Menammbahkan Data
-![Screenshot (490)](https://user-images.githubusercontent.com/81568032/124490788-b9855a00-dddc-11eb-97f0-b06ed6398da4.png)
-
-![Screenshot (491)](https://user-images.githubusercontent.com/81568032/124490830-c5711c00-dddc-11eb-8cef-d260e2020629.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124686061-9f429d80-defc-11eb-92af-469685199dd7.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124686122-bb463f00-defc-11eb-8d2d-b94c76040201.png)
 
 # 3. Mengubah Data
-![Screenshot (493)](https://user-images.githubusercontent.com/81568032/124490986-f18c9d00-dddc-11eb-9676-0c1bebd20e87.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124686223-e6c92980-defc-11eb-9fa5-3e51d0212abe.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124687134-8d61fa00-defe-11eb-96e5-c1d55ebe517b.png)
 
-![Screenshot (494)](https://user-images.githubusercontent.com/81568032/124490997-f5b8ba80-dddc-11eb-8287-6379d720ed21.png)
 
 # 4. Tampilan Setelah Dihapus
-![Screenshot (495)](https://user-images.githubusercontent.com/81568032/124491092-14b74c80-dddd-11eb-9a34-85d4a1e55964.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124687173-9d79d980-defe-11eb-82e6-ff1422aa4dad.png)
+![gambar](https://user-images.githubusercontent.com/81568032/124687207-ab2f5f00-defe-11eb-8235-f1d2567d48aa.png)
 
-![Screenshot (496)](https://user-images.githubusercontent.com/81568032/124491109-1bde5a80-dddd-11eb-8abf-67d615f1de3c.png)
 
 
